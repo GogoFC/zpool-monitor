@@ -12,4 +12,6 @@ TODO
 8. Inform server of uuid of monitor
 9. Pool space usage
 10. IO errors triangle with ! yellow warning
-11. 
+11. build your own dash with api.
+12. why
+13. 
