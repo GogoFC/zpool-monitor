@@ -9,4 +9,4 @@ TODO
 5. Also similar to LAN make it over wireguard
 6. zpool statux -x
 7. server hasn't sent info in a long time
-8. 
+8. Inform server of uuid of monitor
