@@ -14,4 +14,5 @@ TODO
 10. IO errors triangle with ! yellow warning
 11. build your own dash with api.
 12. why
-13. 
+13. websockets
+14. 
