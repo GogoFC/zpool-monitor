@@ -10,3 +10,6 @@ TODO
 6. zpool statux -x
 7. server hasn't sent info in a long time
 8. Inform server of uuid of monitor
+9. Pool space usage
+10. IO errors triangle with ! yellow warning
+11. 
