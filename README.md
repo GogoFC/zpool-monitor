@@ -15,5 +15,5 @@ TODO
 11. build your own dash with api.
 12. why
 13. websockets
-14. Display backup snapshots and compare with original
+14. Display backup snapshots side by side with original
 15. 
