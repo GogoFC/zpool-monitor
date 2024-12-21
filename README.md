@@ -17,3 +17,6 @@ TODO
 13. websockets
 14. Display backup snapshots side by side with original
 15. 
+16. Multiple hosts. Multiple users with multiple hosts.
+17. Agents on hosts, main App on a server. 
+18. 
